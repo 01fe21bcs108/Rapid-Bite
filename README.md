@@ -28,6 +28,20 @@ To set up and run the FoodShare project locally, follow these instructions:
 - MySQL Database
 - Node.js and npm (for frontend dependencies)
 
+  ## Screenshots
+
+### Homepage and other images
+#### Hompage
+![Homepage Screenshot1](foodprojectpic/homepage.png)
+#### Login Page for customer and restaurant owner
+![Login Screenshot](foodprojectpic/login.png)
+#### Customer and Restaurant registration
+![Register Screenshot](foodprojectpic/register.png)
+#### Various Restaurants
+![Restaurants Screenshot](foodprojectpic/restaurant.png)
+#### Restaurant Dashboard
+![Restaurant Management Screenshot](foodprojectpic/rest_mang.png)
+
 ### Installation
 
 1. **Clone the Repository**
