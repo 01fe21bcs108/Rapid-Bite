@@ -35,3 +35,50 @@ To set up and run the FoodShare project locally, follow these instructions:
    ```bash
    git clone https://github.com/your-username/FoodShare.git
    cd FoodShare
+
+2. **Set Up the Backend**
+
+-Navigate to the backend directory:
+
+   ```bash
+   cd backend 
+   ```
+-Build and install dependencies using Maven:
+
+  ```bash
+  ./mvnw clean install
+  ```
+
+Configure your database settings in src/main/resources/application.properties.   
+
+3. **Set Up the Frontend**
+
+-Navigate to the frontend directory:
+
+   ```bash
+
+   cd ../frontend
+   ```
+-Install the necessary dependencies:
+
+   ```bash
+
+   npm install
+   ```
+4. **Run the Application**
+
+Start the backend server:
+
+  ```bash
+
+  cd ../backend
+  ./mvnw spring-boot:run
+  ```
+5. **Start the frontend development server:**
+
+  ```bash
+
+  cd ../frontend
+  npm start
+  ```
+The application will be available at http://localhost:8080 (backend) and http://localhost:3000 (frontend).
