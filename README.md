@@ -96,4 +96,5 @@ Start the backend server:
   npm start
   ```
 The application will be available at http://localhost:8080 (backend) and http://localhost:3000 (frontend).
-## THANK YOU
+### THANK YOU
+#### FEEL FREE TO MAKE CONTRIBUTIONS!!!
