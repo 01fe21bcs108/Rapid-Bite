@@ -1,4 +1,4 @@
-# FoodShare
+# Rapid Bite
 
 ## Project Description
 
