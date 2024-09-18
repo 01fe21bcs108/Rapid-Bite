@@ -2,7 +2,7 @@
 
 ## Project Description
 
-FoodShare is an innovative platform designed to address food insecurity by connecting surplus food from hotels and restaurants with individuals who need it. The project aims to promote efficient surplus food management and sustainable consumption practices. By offering luxurious and exclusive remaining food from popular restaurants at significantly reduced prices, FoodShare ensures that high-quality food that would otherwise go to waste is made accessible to those who cannot afford it at full price.
+Rapid Bite is an innovative platform designed to address food insecurity by connecting surplus food from hotels and restaurants with individuals who need it. The project aims to promote efficient surplus food management and sustainable consumption practices. By offering luxurious and exclusive remaining food from popular restaurants at significantly reduced prices, FoodShare ensures that high-quality food that would otherwise go to waste is made accessible to those who cannot afford it at full price.
 
 ## Features
 
